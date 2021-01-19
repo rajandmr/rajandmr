@@ -73,6 +73,21 @@ me.say_hi()
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
+<!-- ## ⚡ Technologies -->
+Talk to me about:
+- Front-end development using **React, Next, MaterialCSS**.
+- Backend development using **NodeJS, NestJS, Lambda**.
+- Robust full-stack system design implementation.
+- Creating scalable cloud architecture using **AWS Cloud**.
+- Solving Data structure and algorithm questions in **JavaScript and Python**.
+## Hello World!! 🤔
+- 💬 Ask me about anything an everything.
+- 📫 Read my blogs: [Rajan's Blog](https://blog.rajankalwar.me).
+- 🎯 Portfolio site: [Portfolio](https://rajankalwar.me).
+- ⚡ Fun fact: Internet users blink less than usual.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rajandmr.rajandmr)
+
 <!--
 **rajandmr/rajandmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
