@@ -81,7 +81,7 @@ Talk to me about:
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **JavaScript and Python**.
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything on everything.
 - 📫 Read my blogs: [Rajan's Blog](https://blog.rajankalwar.me).
 - 🎯 Portfolio site: [Portfolio](https://rajankalwar.me).
 - ⚡ Fun fact: Internet users blink less than usual.
