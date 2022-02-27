@@ -86,7 +86,6 @@ Talk to me about:
 - 🎯 Portfolio site: [Portfolio](https://rajankalwar.com.np).
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rajandmr.rajandmr)
 
 <!--
 **rajandmr/rajandmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
