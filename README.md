@@ -19,8 +19,8 @@ class CloudEngineer:
     def __init__(self):
         self.name = "Rajan Prasad"
         self.role = "Cloud Engineer"
-        self.blog = "https://blog.rajankalwar.me/"
-        self.portfolio = "https://rajankalwar.me/"
+        self.blog = "https://blog.rajankalwar.tech/"
+        self.portfolio = "https://rajankalwar.com.np/"
         self.knowledge_base = [
             "AWS",
             "Back-end & Front-end Development",
@@ -82,8 +82,8 @@ Talk to me about:
 - Solving Data structure and algorithm questions in **JavaScript and Python**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything on everything.
-- 📫 Read my blogs: [Rajan's Blog](https://blog.rajankalwar.me).
-- 🎯 Portfolio site: [Portfolio](https://rajankalwar.me).
+- 📫 Read my blogs: [Rajan's Blog](https://blog.rajankalwar.tech).
+- 🎯 Portfolio site: [Portfolio](https://rajankalwar.com.np).
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rajandmr.rajandmr)
