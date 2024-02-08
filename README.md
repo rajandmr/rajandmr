@@ -1,26 +1,20 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@RajanDmr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RajanDmr)](https://twitter.com/RajanDmr) 
-[![Linkedin Badge](https://img.shields.io/badge/-RajanPrasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajan-prasad-810b8596/)](https://www.linkedin.com/in/rajan-prasad-810b8596/) 
-
-
-
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
 
 class CloudEngineer:
     def __init__(self):
         self.name = "Rajan Prasad"
         self.role = "Cloud Engineer"
-        self.blog = "https://blog.rajankalwar.tech/"
-        self.portfolio = "https://rajankalwar.com.np/"
+        self.blog = "https://rajan.work/blog/"
+        self.portfolio = "https://rajan.work/"
         self.knowledge_base = [
             "AWS",
             "Back-end & Front-end Development",
@@ -75,15 +69,15 @@ me.say_hi()
 
 <!-- ## ⚡ Technologies -->
 Talk to me about:
-- Front-end development using **React, Next, MaterialCSS**.
-- Backend development using **NodeJS, NestJS, Lambda**.
+- Front-end development using **Vue, Nuxt, TailwindCSS**.
+- Backend development using **Python, Javascript, Serverless Stack**.
 - Robust full-stack system design implementation.
 - Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **JavaScript and Python**.
+- Solving Data structure and algorithm questions in **JavaScript and Python** on Leetcode.
 ## Hello World!! 🤔
 - 💬 Ask me about anything on everything.
-- 📫 Read my blogs: [Rajan's Blog](https://blog.rajankalwar.tech).
-- 🎯 Portfolio site: [Portfolio](https://rajankalwar.com.np).
+- 📫 Read my blogs: [Rajan's Blog](https://rajan.work/blog/).
+- 🎯 Portfolio site: [Portfolio](https://rajan.work).
 - ⚡ Fun fact: Internet users blink less than usual.
 
 
